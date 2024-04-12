@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Inter-Regular';
-    src: url('Inter-Regular.eot');
-    src: url('Inter-Regular.eot?#iefix') format('embedded-opentype'),
-        url('Inter-Regular.woff2') format('woff2'),
-        url('Inter-Regular.woff') format('woff'),
-        url('Inter-Regular.svg#Inter-Regular') format('svg');
+    src: url('../fonts/Inter-Regular.eot');
+    src: url('../fonts/Inter-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Inter-Regular.woff2') format('woff2'),
+        url('../fonts/Inter-Regular.woff') format('woff'),
+        url('../fonts/Inter-Regular.svg#Inter-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -12,11 +12,11 @@
 
 @font-face {
     font-family: 'Inter-Medium';
-    src: url('Inter-Medium.eot');
-    src: url('Inter-Medium.eot?#iefix') format('embedded-opentype'),
-        url('Inter-Medium.woff2') format('woff2'),
-        url('Inter-Medium.woff') format('woff'),
-        url('Inter-Medium.svg#Inter-Medium') format('svg');
+    src: url('../fonts/Inter-Medium.eot');
+    src: url('../fonts/Inter-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Inter-Medium.woff2') format('woff2'),
+        url('../fonts/Inter-Medium.woff') format('woff'),
+        url('../fonts/Inter-Medium.svg#Inter-Medium') format('svg');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -24,11 +24,11 @@
 
 @font-face {
     font-family: 'Inter-SemiBold';
-    src: url('Inter-SemiBold.eot');
-    src: url('Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('Inter-SemiBold.woff2') format('woff2'),
-        url('Inter-SemiBold.woff') format('woff'),
-        url('Inter-SemiBold.svg#Inter-SemiBold') format('svg');
+    src: url('../fonts/Inter-SemiBold.eot');
+    src: url('../fonts/Inter-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Inter-SemiBold.woff2') format('woff2'),
+        url('../fonts/Inter-SemiBold.woff') format('woff'),
+        url('../fonts/Inter-SemiBold.svg#Inter-SemiBold') format('svg');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'Poppins-SemiBold';
-    src: url('Poppins-SemiBold.eot');
-    src: url('Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('Poppins-SemiBold.woff2') format('woff2'),
-        url('Poppins-SemiBold.woff') format('woff'),
-        url('Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
+    src: url('../fonts/Poppins-SemiBold.eot');
+    src: url('../fonts/Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins-SemiBold.woff2') format('woff2'),
+        url('../fonts/Poppins-SemiBold.woff') format('woff'),
+        url('../fonts/Poppins-SemiBold.svg#Poppins-SemiBold') format('svg');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -48,11 +48,11 @@
 
 @font-face {
     font-family: 'Poppins-Bold';
-    src: url('Poppins-Bold.eot');
-    src: url('Poppins-Bold.eot?#iefix') format('embedded-opentype'),
-        url('Poppins-Bold.woff2') format('woff2'),
-        url('Poppins-Bold.woff') format('woff'),
-        url('Poppins-Bold.svg#Poppins-Bold') format('svg');
+    src: url('../fonts/Poppins-Bold.eot');
+    src: url('../fonts/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins-Bold.woff2') format('woff2'),
+        url('../fonts/Poppins-Bold.woff') format('woff'),
+        url('../fonts/Poppins-Bold.svg#Poppins-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -60,11 +60,11 @@
 
 @font-face {
     font-family: 'Cabin';
-    src: url('Cabin-SemiBold.eot');
-    src: url('Cabin-SemiBold.eot?#iefix') format('embedded-opentype'),
-        url('Cabin-SemiBold.woff2') format('woff2'),
-        url('Cabin-SemiBold.woff') format('woff'),
-        url('Cabin-SemiBold.svg#Cabin-SemiBold') format('svg');
+    src: url('../fonts/Cabin-SemiBold.eot');
+    src: url('../fonts/Cabin-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cabin-SemiBold.woff2') format('woff2'),
+        url('../fonts/Cabin-SemiBold.woff') format('woff'),
+        url('../fonts/Cabin-SemiBold.svg#Cabin-SemiBold') format('svg');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
